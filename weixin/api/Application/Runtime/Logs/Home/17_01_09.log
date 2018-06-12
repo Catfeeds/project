@@ -1,0 +1,58 @@
+[ 2017-01-09T10:44:08+08:00 ] ::1 /ceshi/CAMS/weixin/api/
+ERR: 无法加载控制器:Index
+
+[ 2017-01-09T10:52:16+08:00 ] ::1 /ceshi/CAMS/weixin/api/
+ERR: 无法加载控制器:Index
+
+[ 2017-01-09T10:52:38+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php
+ERR: 无法加载控制器:Index
+
+[ 2017-01-09T10:52:49+08:00 ] ::1 /ceshi/CAMS/weixin/api/
+ERR: 无法加载控制器:Index
+
+[ 2017-01-09T10:53:22+08:00 ] ::1 /ceshi/CAMS/weixin/api/
+ERR: 无法加载控制器:Index
+
+[ 2017-01-09T10:53:57+08:00 ] ::1 /ceshi/CAMS/weixin/api/
+ERR: 无法加载控制器:Index
+
+[ 2017-01-09T10:54:58+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'cams_cshcc'@'localhost' (using password: YES)
+
+[ 2017-01-09T10:55:25+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'cams_cshcc'@'localhost' (using password: YES)
+
+[ 2017-01-09T10:55:34+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'cams_cshcc'@'localhost' (using password: YES)
+
+[ 2017-01-09T11:03:01+08:00 ] 127.0.0.1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'cams_cshcc'@'localhost' (using password: YES)
+
+[ 2017-01-09T11:04:14+08:00 ] 127.0.0.1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+ERR: 1146:Table 'cams_cshcc.sp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_user`
+
+[ 2017-01-09T11:06:58+08:00 ] 127.0.0.1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+ERR: 1146:Table 'cams_cshcc.sp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_user`
+
+[ 2017-01-09T11:07:20+08:00 ] 127.0.0.1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+ERR: 1146:Table 'cams_cshcc.sp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_user`
+
+[ 2017-01-09T11:07:27+08:00 ] 127.0.0.1 /ceshi/CAMS/weixin/api/index.php/Home/Login/login
+ERR: 1146:Table 'cams_cshcc.sp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_user`
+

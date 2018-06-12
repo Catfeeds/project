@@ -1,0 +1,35 @@
+
+=================2016-10-11 14:18:42=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wLD6OnNbB5bkSluL7M3QAos]]></FromUserName>
+<CreateTime>1476166725</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>408260197</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-10-11 14:18:42=================
+
+=================2016-10-11 14:18:42=================
+<xml><ToUserName><![CDATA[oMeU-wLD6OnNbB5bkSluL7M3QAos]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1476166722]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-10-11 14:18:42=================
+
+=================2016-10-11 23:42:45=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wC5usJfdTaFlkDmBkSFiBs4]]></FromUserName>
+<CreateTime>1476200568</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[lianxifangshi]]></EventKey>
+</xml>
+=================2016-10-11 23:42:45=================
+
+=================2016-10-11 23:42:45=================
+<xml><ToUserName><![CDATA[oMeU-wC5usJfdTaFlkDmBkSFiBs4]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[中心全称：中标华信（北京）认证中心有限公司
+办公地址：北京市石景山区石景山路3号玉泉大厦503室
+邮编：100049
+电话：010-88255986
+E-mail:cshcc@cshcc.cn
+简历投递：cshcc_cn@163.com
+网址：cams.cshcc.cn]]></Content><CreateTime><![CDATA[1476200565]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-10-11 23:42:45=================

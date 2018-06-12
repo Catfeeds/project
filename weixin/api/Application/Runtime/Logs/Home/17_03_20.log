@@ -1,0 +1,397 @@
+[ 2017-03-20T10:39:23+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001924s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0264s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0328s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 LIMIT 1   [ RunTime:0.0133s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0  [ RunTime:0.0008s ]
+
+[ 2017-03-20T10:39:42+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0092s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0  [ RunTime:0.0014s ]
+
+[ 2017-03-20T10:43:14+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0217s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0719s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0259s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 72 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0077s ]
+
+[ 2017-03-20T10:43:38+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='107' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0021s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '107' AND tat.deleted = 0 AND tat.role <> '' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0044s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '107' AND tat.deleted = 0 AND tat.role <> '' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0088s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 72 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '107' AND tat.deleted = 0 AND tat.role <> '' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0037s ]
+
+[ 2017-03-20T10:45:22+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/tasknoqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='107' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0023s ]
+SQL: SELECT e.ep_name,e.areaaddr,p.id as pid,p.ct_code,tat.eid,tat.tid,p.ct_id,tat.taskBeginDate,tat.taskEndDate,tat.name,tat.uid as userid,un.unionToken as openid FROM sp_task_audit_team tat LEFT JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid LEFT JOIN sp_unionlogin un ON tat.uid = un.userID  WHERE tat.uid IN ('101','154') AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND tat.audit_type <> '1002' AND tat.role <> '' AND tat.deleted = '0' AND t.status = '3' AND t.deleted = '0' AND p.is_finish = '0' AND p.deleted = '0' AND e.deleted = '0' AND un.status = '1' GROUP BY name,taskBeginDate,taskEndDate ORDER BY tat.taskBeginDate  [ RunTime:0.0328s ]
+
+[ 2017-03-20T10:45:26+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/tasknoqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0049s ]
+SQL: SELECT e.ep_name,e.areaaddr,p.id as pid,p.ct_code,tat.eid,tat.tid,p.ct_id,tat.taskBeginDate,tat.taskEndDate,tat.name,tat.uid as userid,un.unionToken as openid FROM sp_task_audit_team tat LEFT JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid LEFT JOIN sp_unionlogin un ON tat.uid = un.userID  WHERE tat.uid IN ('101','154') AND tat.taskBeginDate <= ' 23:59:59' AND tat.taskEndDate >= ' 00:00:00' AND tat.audit_type <> '1002' AND tat.role <> '' AND tat.deleted = '0' AND t.status = '3' AND t.deleted = '0' AND p.is_finish = '0' AND p.deleted = '0' AND e.deleted = '0' AND un.status = '1' GROUP BY name,taskBeginDate,taskEndDate ORDER BY tat.taskBeginDate  [ RunTime:0.0023s ]
+
+[ 2017-03-20T10:48:15+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0025s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0039s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 75 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0030s ]
+
+[ 2017-03-20T10:48:52+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0035s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0068s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0047s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 75 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0031s ]
+
+[ 2017-03-20T10:49:18+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-03-20T10:50:13+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0027s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0047s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 81 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0027s ]
+
+[ 2017-03-20T10:50:30+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='95' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0022s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0053s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 81 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0046s ]
+
+[ 2017-03-20T10:55:47+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList?is_finish=0&_=1489977556080
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+
+[ 2017-03-20T10:55:54+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='95' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0025s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0047s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0048s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 81 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0027s ]
+
+[ 2017-03-20T10:57:25+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+
+[ 2017-03-20T10:57:28+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList?tid=10&ct_id=3&_=1489977556081
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+
+[ 2017-03-20T10:57:30+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+
+[ 2017-03-20T10:57:37+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+
+[ 2017-03-20T10:57:39+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001779s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+
+[ 2017-03-20T10:57:43+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+
+[ 2017-03-20T10:58:01+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0  [ RunTime:0.0009s ]
+
+[ 2017-03-20T11:04:05+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0024s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0040s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 81 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0033s ]
+
+[ 2017-03-20T11:14:17+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0010s ]
+
+[ 2017-03-20T11:14:24+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0008s ]
+
+[ 2017-03-20T11:14:40+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.tid = '10' AND tq.ct_id = '3' AND tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0013s ]
+
+[ 2017-03-20T11:14:55+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002339s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-03-20T11:17:29+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0006s ]
+
+[ 2017-03-20T11:18:04+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0094s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0008s ]
+
+[ 2017-03-20T11:18:30+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0022s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0003s ]
+
+[ 2017-03-20T11:19:02+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003031s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0004s ]
+
+[ 2017-03-20T11:20:13+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0019s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-02-17' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-02-17' LIMIT 0,12   [ RunTime:0.0003s ]
+
+[ 2017-03-20T11:20:23+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-02-17' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-02-17' LIMIT 0,12   [ RunTime:0.0004s ]
+
+[ 2017-03-20T11:20:31+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='105' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0003s ]
+
+[ 2017-03-20T11:20:34+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='105' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2017-03-20'  [ RunTime:0.0003s ]
+
+[ 2017-03-20T11:20:52+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='105' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2016-10-15' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id  WHERE tq.status = 1 AND hr.deleted = 0 AND tq.qd_date = '2016-10-15' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-03-20T11:23:37+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Auditor/taskqdList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='105' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_qd` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id LEFT JOIN sp_enterprises e ON e.eid = tq.eid  WHERE tq.status = 1 AND hr.deleted = 0 AND e.deleted = 0 AND tq.qd_date = '2016-10-15' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM sp_task_qd tq LEFT JOIN sp_hr hr ON tq.userID = hr.id LEFT JOIN sp_enterprises e ON e.eid = tq.eid  WHERE tq.status = 1 AND hr.deleted = 0 AND e.deleted = 0 AND tq.qd_date = '2016-10-15' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-03-20T11:27:44+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='105' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0026s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '105' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0044s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '105' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0035s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 81 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '105' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0025s ]
+
+[ 2017-03-20T11:27:49+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0044s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0056s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0049s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 81 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0057s ]
+
+[ 2017-03-20T11:27:52+08:00 ] ::1 /ceshi/CAMS/weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='95' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0027s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0050s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: tab_ E:\WWW\ceshi\CAMS\weixin\api\Application\Home\Controller\TaskController.class.php 第 81 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.upload_file_date,t.jh_sp_status,e.ep_name FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_enterprises e ON e.eid = t.eid   WHERE tat.uid = '95' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-03-20 23:59:59' AND tat.taskEndDate >= '2017-03-20 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND t.status = 3 AND e.deleted = 0 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0031s ]
+

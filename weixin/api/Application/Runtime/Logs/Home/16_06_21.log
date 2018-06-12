@@ -1,0 +1,13 @@
+[ 2016-06-21T13:38:26+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0229s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-21 13:38:26',`modifyTime`='2016-06-21 13:38:26' WHERE ( id=1 ) [ RunTime:0.0004s ]
+

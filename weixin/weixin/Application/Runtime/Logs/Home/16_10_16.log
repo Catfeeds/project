@@ -1,0 +1,12 @@
+[ 2016-10-16T09:58:01+08:00 ] 117.136.0.42 /weixin/weixin/index.php/Home/Ajax/qiandao
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/wwwroot/cams_cshcc/public_html/weixin/weixin/ThinkPHP/Common/functions.php 第 1263 行.
+
+[ 2016-10-16T18:59:27+08:00 ] 114.250.152.149 /weixin/weixin/index.php/Home/Ajax/qiandao
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/wwwroot/cams_cshcc/public_html/weixin/weixin/ThinkPHP/Common/functions.php 第 1263 行.
+

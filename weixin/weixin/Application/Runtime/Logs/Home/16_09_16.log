@@ -1,0 +1,15 @@
+[ 2016-09-16T21:16:37+08:00 ] 60.14.254.5 /weixin/weixin/index.php/Home/Ajax/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+NOTIC: [8] Undefined index: errorCode /home/wwwroot/ceshi/public_html/weixin/weixin/Application/Home/Controller/AjaxController.class.php 第 10 行.
+NOTIC: [8] Undefined index: results /home/wwwroot/ceshi/public_html/weixin/weixin/Application/Home/Controller/AjaxController.class.php 第 11 行.
+NOTIC: [8] Undefined index: results /home/wwwroot/ceshi/public_html/weixin/weixin/Application/Home/Controller/AjaxController.class.php 第 12 行.
+NOTIC: [8] Undefined index: extraInfo /home/wwwroot/ceshi/public_html/weixin/weixin/Application/Home/Controller/AjaxController.class.php 第 14 行.
+NOTIC: [8] Undefined index: extraInfo /home/wwwroot/ceshi/public_html/weixin/weixin/Application/Home/Controller/AjaxController.class.php 第 15 行.
+
+[ 2016-09-16T21:22:12+08:00 ] 60.14.254.5 /weixin/weixin/index.php/Home/Ajax/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+

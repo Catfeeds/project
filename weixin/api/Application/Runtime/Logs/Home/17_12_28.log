@@ -1,0 +1,10 @@
+[ 2017-12-28T17:22:14+08:00 ] 121.101.209.126 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001765s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0022s ]
+SQL: SELECT tat.*,p.is_finish,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-12-28 23:59:59' AND tat.taskEndDate >= '2017-12-28 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:2.2355s ]
+

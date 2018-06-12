@@ -1,0 +1,189 @@
+[ 2017-10-24T06:00:00+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T07:46:28+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '171' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T07:55:52+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '91' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T07:55:57+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '91' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T07:56:03+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '91' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '1' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T07:56:06+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '91' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:00:44+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '91' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:51:01+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:51:13+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:51:22+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:51:47+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:52:03+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:54:37+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:55:00+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T08:55:24+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T09:07:23+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '101' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T09:25:49+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '168' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T09:34:07+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '91' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T09:40:04+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '182' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T09:40:06+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '182' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T09:48:28+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '101' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:10:09+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:10:34+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:10:50+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:11:20+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '211' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:11:21+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '208' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:38:25+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '232' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-08 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:57:20+08:00 ] 39.155.185.19 /weixin/api/
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=index&a=line
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=index&a=left
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=home
+ERR: 无法加载控制器:Home
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=index&a=line
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=index&a=left
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=home
+ERR: 无法加载控制器:Home
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=index&a=line
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=index&a=left
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:25+08:00 ] 39.155.185.19 /weixin/api/?c=home
+ERR: 无法加载控制器:Home
+
+[ 2017-10-24T10:57:35+08:00 ] 117.185.27.115 /weixin/api/?c=index&a=line
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:52+08:00 ] 117.185.27.114 /weixin/api/?c=index&a=left
+ERR: 无法加载控制器:Index
+
+[ 2017-10-24T10:57:55+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001769s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T10:58:11+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0013s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+
+[ 2017-10-24T11:10:14+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002838s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0018s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-24 23:59:59' AND tat.taskEndDate >= '2017-10-24 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.3103s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+

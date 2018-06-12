@@ -1,0 +1,12 @@
+[ 2016-10-13T09:15:02+08:00 ] 223.104.38.108 /weixin/weixin/index.php/Home/Ajax/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001826s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/wwwroot/cams_cshcc/public_html/weixin/weixin/ThinkPHP/Common/functions.php 第 1263 行.
+
+[ 2016-10-13T09:15:04+08:00 ] 223.104.38.108 /weixin/weixin/index.php/Home/Ajax/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /home/wwwroot/cams_cshcc/public_html/weixin/weixin/ThinkPHP/Common/functions.php 第 1263 行.
+

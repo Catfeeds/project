@@ -1,0 +1,742 @@
+
+=================2018-03-15 08:25:01=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGgs33I02XbpbBiqr2vYiNQ]]></FromUserName>
+<CreateTime>1521073502</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>192623104965492738</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2018-03-15 08:25:01=================
+
+=================2018-03-15 08:25:01=================
+<xml><ToUserName><![CDATA[oMeU-wGgs33I02XbpbBiqr2vYiNQ]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1521073501]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 08:25:01=================
+
+=================2018-03-15 08:25:02=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1521073504</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>192623126071508992</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2018-03-15 08:25:02=================
+
+=================2018-03-15 08:25:02=================
+<xml><ToUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1521073502]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 08:25:02=================
+
+=================2018-03-15 08:25:04=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1521073505</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>192623146908811266</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2018-03-15 08:25:04=================
+
+=================2018-03-15 08:25:04=================
+<xml><ToUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1521073504]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 08:25:04=================
+
+=================2018-03-15 08:25:25=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1521073526</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:25:25=================
+
+=================2018-03-15 08:26:02=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1521073563</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:26:02=================
+
+=================2018-03-15 08:26:30=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFA6FAiX65Ax0xnpjE6t5I]]></FromUserName>
+<CreateTime>1521073591</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:26:30=================
+
+=================2018-03-15 08:26:53=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wNwAfTFXthyOFSnVFEVokdQ]]></FromUserName>
+<CreateTime>1521073615</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_10000004]]></EventKey>
+</xml>
+=================2018-03-15 08:26:53=================
+
+=================2018-03-15 08:26:53=================
+<xml><ToUserName><![CDATA[oMeU-wNwAfTFXthyOFSnVFEVokdQ]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[        中标华信(北京)认证中心有限公司（简称CSHCC）是经中国认证认可监督管理委员会（CNCA）正式批准的综合类认证服务实体。中标华信(北京)认证中心首批获得认监委批准并首个获得服务认证资格的认证机构。机构同时具有质量、环境、职业健康安全管理体系认证资格，一次认证可同时颁发管理体系认证和服务认证证书。为有需求的认证客户提供方便的专业化一站式服务。
+        中标华信(北京)认证中心吸引了行业内认证界的高端人才，机构拥有行业内多年参与认证相关标准制定的知名专家和多名高级审核员及技术专家，技术力量雄厚。2015年本机构参加了服务认证审查员能力评价行业标准的制定。2016年中标华信(北京)认证中心又率先获得认证认可协会CCAA服务认证审查员培训课程确认，成为行业内具有培养服务认证审查员资格的认证机构。
+        中标华信(北京)认证中心中文网站（www.cshcc.cn），网站面向全国宣传中心的认证工作，也是获证企业获证后的服务之家，为所有关注认证事业的企业及同仁提供一个信息交流沟通的平台。
+        中标华信(北京)认证中心成立以来，确立了公证、负责、独立、权威的质量方针，努力实现技术、业务和各项资源的全面整合及有效管理，以科学、规范、严谨的工作作风和态度，精湛的技能、高素质的人员队伍、严明的纪律和优质的服务，在国内外认证领域树立了良好的行业形象，为我们的客户提供专业化认证以及相关的技术服务。]]></Content><CreateTime><![CDATA[1521073613]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 08:26:53=================
+
+=================2018-03-15 08:27:01=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wNwAfTFXthyOFSnVFEVokdQ]]></FromUserName>
+<CreateTime>1521073622</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:27:01=================
+
+=================2018-03-15 08:28:30=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFA6FAiX65Ax0xnpjE6t5I]]></FromUserName>
+<CreateTime>1521073711</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:28:30=================
+
+=================2018-03-15 08:28:45=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFA6FAiX65Ax0xnpjE6t5I]]></FromUserName>
+<CreateTime>1521073727</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:28:45=================
+
+=================2018-03-15 08:45:38=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1521074739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:45:38=================
+
+=================2018-03-15 08:45:49=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1521074750</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 08:45:49=================
+
+=================2018-03-15 09:10:07=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521076208</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 09:10:07=================
+
+=================2018-03-15 09:10:32=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521076233</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[qiyejianjie]]></EventKey>
+</xml>
+=================2018-03-15 09:10:32=================
+
+=================2018-03-15 09:10:32=================
+<xml><ToUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[        中标华信(北京)认证中心有限公司（简称CSHCC）是经中国认证认可监督管理委员会（CNCA）正式批准的综合类认证服务实体。中标华信(北京)认证中心首批获得认监委批准并首个获得服务认证资格的认证机构。机构同时具有质量、环境、职业健康安全管理体系认证资格，一次认证可同时颁发管理体系认证和服务认证证书。为有需求的认证客户提供方便的专业化一站式服务。
+        中标华信(北京)认证中心吸引了行业内认证界的高端人才，机构拥有行业内多年参与认证相关标准制定的知名专家和多名高级审核员及技术专家，技术力量雄厚。2015年本机构参加了服务认证审查员能力评价行业标准的制定。2016年中标华信(北京)认证中心又率先获得认证认可协会CCAA服务认证审查员培训课程确认，成为行业内具有培养服务认证审查员资格的认证机构。
+        中标华信(北京)认证中心中文网站（www.cshcc.cn），网站面向全国宣传中心的认证工作，也是获证企业获证后的服务之家，为所有关注认证事业的企业及同仁提供一个信息交流沟通的平台。
+        中标华信(北京)认证中心成立以来，确立了公证、负责、独立、权威的质量方针，努力实现技术、业务和各项资源的全面整合及有效管理，以科学、规范、严谨的工作作风和态度，精湛的技能、高素质的人员队伍、严明的纪律和优质的服务，在国内外认证领域树立了良好的行业形象，为我们的客户提供专业化认证以及相关的技术服务。]]></Content><CreateTime><![CDATA[1521076232]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 09:10:32=================
+
+=================2018-03-15 09:10:45=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521076246</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 09:10:45=================
+
+=================2018-03-15 09:14:32=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521076473</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/zhengshuzhuangtai]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 09:14:32=================
+
+=================2018-03-15 09:14:40=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521076481</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/zhengshuzhuangtai]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 09:14:40=================
+
+=================2018-03-15 09:14:45=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521076486</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 09:14:45=================
+
+=================2018-03-15 09:14:49=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521076490</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 09:14:49=================
+
+=================2018-03-15 09:16:23=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGgs33I02XbpbBiqr2vYiNQ]]></FromUserName>
+<CreateTime>1521076584</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 09:16:23=================
+
+=================2018-03-15 10:27:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1521080876</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 10:27:55=================
+
+=================2018-03-15 10:46:02=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1521081963</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 10:46:02=================
+
+=================2018-03-15 11:58:35=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFQa1-2nQPVsq9ZhESOQTr8]]></FromUserName>
+<CreateTime>1521086316</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+=================2018-03-15 11:58:35=================
+
+=================2018-03-15 11:58:35=================
+<xml><ToUserName><![CDATA[oMeU-wFQa1-2nQPVsq9ZhESOQTr8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[        中标华信(北京)认证中心有限公司（简称CSHCC）是经中国认证认可监督管理委员会（CNCA）正式批准的综合类认证服务实体。中标华信(北京)认证中心首批获得认监委批准并首个获得服务认证资格的认证机构。机构同时具有质量、环境、职业健康安全管理体系认证资格，一次认证可同时颁发管理体系认证和服务认证证书。为有需求的认证客户提供方便的专业化一站式服务。
+        中标华信(北京)认证中心吸引了行业内认证界的高端人才，机构拥有行业内多年参与认证相关标准制定的知名专家和多名高级审核员及技术专家，技术力量雄厚。2015年本机构参加了服务认证审查员能力评价行业标准的制定。2016年中标华信(北京)认证中心又率先获得认证认可协会CCAA服务认证审查员培训课程确认，成为行业内具有培养服务认证审查员资格的认证机构。
+        中标华信(北京)认证中心中文网站（www.cshcc.cn），网站面向全国宣传中心的认证工作，也是获证企业获证后的服务之家，为所有关注认证事业的企业及同仁提供一个信息交流沟通的平台。
+        中标华信(北京)认证中心成立以来，确立了公证、负责、独立、权威的质量方针，努力实现技术、业务和各项资源的全面整合及有效管理，以科学、规范、严谨的工作作风和态度，精湛的技能、高素质的人员队伍、严明的纪律和优质的服务，在国内外认证领域树立了良好的行业形象，为我们的客户提供专业化认证以及相关的技术服务。]]></Content><CreateTime><![CDATA[1521086315]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 11:58:35=================
+
+=================2018-03-15 11:59:07=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFQa1-2nQPVsq9ZhESOQTr8]]></FromUserName>
+<CreateTime>1521086348</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[lianxifangshi]]></EventKey>
+</xml>
+=================2018-03-15 11:59:07=================
+
+=================2018-03-15 11:59:07=================
+<xml><ToUserName><![CDATA[oMeU-wFQa1-2nQPVsq9ZhESOQTr8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[中心全称：中标华信（北京）认证中心有限公司
+办公地址：北京市石景山区石景山路3号玉泉大厦5层
+邮编：100049
+电话：010-88255986
+E-mail:cshcc@cshcc.cn
+简历投递：cshcc_cn@163.com
+网址：www.cshcc.cn]]></Content><CreateTime><![CDATA[1521086347]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 11:59:07=================
+
+=================2018-03-15 13:45:03=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1521092704</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 13:45:03=================
+
+=================2018-03-15 14:39:58=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1521095999</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 14:39:58=================
+
+=================2018-03-15 15:50:13=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1521100214</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 15:50:13=================
+
+=================2018-03-15 15:50:15=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1521100216</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 15:50:15=================
+
+=================2018-03-15 16:50:09=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103810</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[qiyejianjie]]></EventKey>
+</xml>
+=================2018-03-15 16:50:09=================
+
+=================2018-03-15 16:50:09=================
+<xml><ToUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[        中标华信(北京)认证中心有限公司（简称CSHCC）是经中国认证认可监督管理委员会（CNCA）正式批准的综合类认证服务实体。中标华信(北京)认证中心首批获得认监委批准并首个获得服务认证资格的认证机构。机构同时具有质量、环境、职业健康安全管理体系认证资格，一次认证可同时颁发管理体系认证和服务认证证书。为有需求的认证客户提供方便的专业化一站式服务。
+        中标华信(北京)认证中心吸引了行业内认证界的高端人才，机构拥有行业内多年参与认证相关标准制定的知名专家和多名高级审核员及技术专家，技术力量雄厚。2015年本机构参加了服务认证审查员能力评价行业标准的制定。2016年中标华信(北京)认证中心又率先获得认证认可协会CCAA服务认证审查员培训课程确认，成为行业内具有培养服务认证审查员资格的认证机构。
+        中标华信(北京)认证中心中文网站（www.cshcc.cn），网站面向全国宣传中心的认证工作，也是获证企业获证后的服务之家，为所有关注认证事业的企业及同仁提供一个信息交流沟通的平台。
+        中标华信(北京)认证中心成立以来，确立了公证、负责、独立、权威的质量方针，努力实现技术、业务和各项资源的全面整合及有效管理，以科学、规范、严谨的工作作风和态度，精湛的技能、高素质的人员队伍、严明的纪律和优质的服务，在国内外认证领域树立了良好的行业形象，为我们的客户提供专业化认证以及相关的技术服务。]]></Content><CreateTime><![CDATA[1521103809]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 16:50:09=================
+
+=================2018-03-15 16:50:17=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103818</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[zhaopinxinxi]]></EventKey>
+</xml>
+=================2018-03-15 16:50:17=================
+
+=================2018-03-15 16:50:17=================
+<xml><ToUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[中标华信认证中心现诚招以下人员
+
+审核员（专/兼职）：
+        具有国家CCAA注册审核员或实习审核员资格；工作认真负责，善于沟通、客观公正。
+
+认证业务管理培训生：
+        在理解公司发展战略和组织结构的基础上，作为管理培训生加入到公司的人才储备计划，熟悉整个公司运作流程，在合同评审、审核方案策划、人员评定、客户服务等部门轮岗，轮岗考核后作为管理团队的培养对象。
+
+应聘联系人：
+伍老师 010-88255986/13269923231
+
+简历投递：
+cshcc_cn@163.com]]></Content><CreateTime><![CDATA[1521103817]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 16:50:17=================
+
+=================2018-03-15 16:50:25=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103826</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Other/kefuliuyan]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 16:50:25=================
+
+=================2018-03-15 16:50:42=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103843</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[lianxifangshi]]></EventKey>
+</xml>
+=================2018-03-15 16:50:42=================
+
+=================2018-03-15 16:50:42=================
+<xml><ToUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[中心全称：中标华信（北京）认证中心有限公司
+办公地址：北京市石景山区石景山路3号玉泉大厦5层
+邮编：100049
+电话：010-88255986
+E-mail:cshcc@cshcc.cn
+简历投递：cshcc_cn@163.com
+网址：www.cshcc.cn]]></Content><CreateTime><![CDATA[1521103842]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 16:50:42=================
+
+=================2018-03-15 16:50:49=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103850</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenqingrenzheng]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 16:50:49=================
+
+=================2018-03-15 16:50:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103856</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/kehugonggao]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 16:50:55=================
+
+=================2018-03-15 16:51:06=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103867</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 16:51:06=================
+
+=================2018-03-15 16:51:12=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103873</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/zhengshuzhuangtai]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 16:51:12=================
+
+=================2018-03-15 16:51:15=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wEgFpZPftJBoGCwThFqSCoQ]]></FromUserName>
+<CreateTime>1521103876</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 16:51:15=================
+
+=================2018-03-15 17:01:23=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1521104484</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 17:01:23=================
+
+=================2018-03-15 17:01:36=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1521104497</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 17:01:36=================
+
+=================2018-03-15 17:21:13=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wICYEennrFdBcbuMFnVJTVQ]]></FromUserName>
+<CreateTime>1521105674</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 17:21:13=================
+
+=================2018-03-15 17:25:02=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGgs33I02XbpbBiqr2vYiNQ]]></FromUserName>
+<CreateTime>1521105903</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>193166697065103360</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2018-03-15 17:25:02=================
+
+=================2018-03-15 17:25:02=================
+<xml><ToUserName><![CDATA[oMeU-wGgs33I02XbpbBiqr2vYiNQ]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1521105902]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 17:25:02=================
+
+=================2018-03-15 17:25:03=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1521105904</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>193166718271586305</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2018-03-15 17:25:03=================
+
+=================2018-03-15 17:25:03=================
+<xml><ToUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1521105903]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 17:25:03=================
+
+=================2018-03-15 17:29:42=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wICYEennrFdBcbuMFnVJTVQ]]></FromUserName>
+<CreateTime>1521106183</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 17:29:42=================
+
+=================2018-03-15 17:34:40=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFA6FAiX65Ax0xnpjE6t5I]]></FromUserName>
+<CreateTime>1521106481</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 17:34:40=================
+
+=================2018-03-15 17:35:13=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFA6FAiX65Ax0xnpjE6t5I]]></FromUserName>
+<CreateTime>1521106514</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 17:35:13=================
+
+=================2018-03-15 18:04:07=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1521108248</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 18:04:07=================
+
+=================2018-03-15 18:04:12=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1521108253</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 18:04:12=================
+
+=================2018-03-15 18:04:25=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1521108266</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 18:04:25=================
+
+=================2018-03-15 18:04:33=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1521108274</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 18:04:33=================
+
+=================2018-03-15 20:14:59=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1521116100</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 20:14:59=================
+
+=================2018-03-15 20:15:10=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1521116111</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 20:15:10=================
+
+=================2018-03-15 20:42:19=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1521117740</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 20:42:19=================
+
+=================2018-03-15 20:43:54=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wLv8lRuBn5i5wo27pFgUKu8]]></FromUserName>
+<CreateTime>1521117835</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+=================2018-03-15 20:43:54=================
+
+=================2018-03-15 20:43:54=================
+<xml><ToUserName><![CDATA[oMeU-wLv8lRuBn5i5wo27pFgUKu8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[        中标华信(北京)认证中心有限公司（简称CSHCC）是经中国认证认可监督管理委员会（CNCA）正式批准的综合类认证服务实体。中标华信(北京)认证中心首批获得认监委批准并首个获得服务认证资格的认证机构。机构同时具有质量、环境、职业健康安全管理体系认证资格，一次认证可同时颁发管理体系认证和服务认证证书。为有需求的认证客户提供方便的专业化一站式服务。
+        中标华信(北京)认证中心吸引了行业内认证界的高端人才，机构拥有行业内多年参与认证相关标准制定的知名专家和多名高级审核员及技术专家，技术力量雄厚。2015年本机构参加了服务认证审查员能力评价行业标准的制定。2016年中标华信(北京)认证中心又率先获得认证认可协会CCAA服务认证审查员培训课程确认，成为行业内具有培养服务认证审查员资格的认证机构。
+        中标华信(北京)认证中心中文网站（www.cshcc.cn），网站面向全国宣传中心的认证工作，也是获证企业获证后的服务之家，为所有关注认证事业的企业及同仁提供一个信息交流沟通的平台。
+        中标华信(北京)认证中心成立以来，确立了公证、负责、独立、权威的质量方针，努力实现技术、业务和各项资源的全面整合及有效管理，以科学、规范、严谨的工作作风和态度，精湛的技能、高素质的人员队伍、严明的纪律和优质的服务，在国内外认证领域树立了良好的行业形象，为我们的客户提供专业化认证以及相关的技术服务。]]></Content><CreateTime><![CDATA[1521117834]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 20:43:54=================
+
+=================2018-03-15 20:44:27=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wLv8lRuBn5i5wo27pFgUKu8]]></FromUserName>
+<CreateTime>1521117869</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[zhaopinxinxi]]></EventKey>
+</xml>
+=================2018-03-15 20:44:27=================
+
+=================2018-03-15 20:44:27=================
+<xml><ToUserName><![CDATA[oMeU-wLv8lRuBn5i5wo27pFgUKu8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[中标华信认证中心现诚招以下人员
+
+审核员（专/兼职）：
+        具有国家CCAA注册审核员或实习审核员资格；工作认真负责，善于沟通、客观公正。
+
+认证业务管理培训生：
+        在理解公司发展战略和组织结构的基础上，作为管理培训生加入到公司的人才储备计划，熟悉整个公司运作流程，在合同评审、审核方案策划、人员评定、客户服务等部门轮岗，轮岗考核后作为管理团队的培养对象。
+
+应聘联系人：
+伍老师 010-88255986/13269923231
+
+简历投递：
+cshcc_cn@163.com]]></Content><CreateTime><![CDATA[1521117867]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 20:44:27=================
+
+=================2018-03-15 20:44:48=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wLv8lRuBn5i5wo27pFgUKu8]]></FromUserName>
+<CreateTime>1521117889</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[qiyejianjie]]></EventKey>
+</xml>
+=================2018-03-15 20:44:48=================
+
+=================2018-03-15 20:44:48=================
+<xml><ToUserName><![CDATA[oMeU-wLv8lRuBn5i5wo27pFgUKu8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[        中标华信(北京)认证中心有限公司（简称CSHCC）是经中国认证认可监督管理委员会（CNCA）正式批准的综合类认证服务实体。中标华信(北京)认证中心首批获得认监委批准并首个获得服务认证资格的认证机构。机构同时具有质量、环境、职业健康安全管理体系认证资格，一次认证可同时颁发管理体系认证和服务认证证书。为有需求的认证客户提供方便的专业化一站式服务。
+        中标华信(北京)认证中心吸引了行业内认证界的高端人才，机构拥有行业内多年参与认证相关标准制定的知名专家和多名高级审核员及技术专家，技术力量雄厚。2015年本机构参加了服务认证审查员能力评价行业标准的制定。2016年中标华信(北京)认证中心又率先获得认证认可协会CCAA服务认证审查员培训课程确认，成为行业内具有培养服务认证审查员资格的认证机构。
+        中标华信(北京)认证中心中文网站（www.cshcc.cn），网站面向全国宣传中心的认证工作，也是获证企业获证后的服务之家，为所有关注认证事业的企业及同仁提供一个信息交流沟通的平台。
+        中标华信(北京)认证中心成立以来，确立了公证、负责、独立、权威的质量方针，努力实现技术、业务和各项资源的全面整合及有效管理，以科学、规范、严谨的工作作风和态度，精湛的技能、高素质的人员队伍、严明的纪律和优质的服务，在国内外认证领域树立了良好的行业形象，为我们的客户提供专业化认证以及相关的技术服务。]]></Content><CreateTime><![CDATA[1521117888]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2018-03-15 20:44:48=================
+
+=================2018-03-15 23:37:32=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521128253</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 23:37:32=================
+
+=================2018-03-15 23:40:41=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1521128443</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 23:40:41=================
+
+=================2018-03-15 23:44:16=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1521128657</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2018-03-15 23:44:16=================

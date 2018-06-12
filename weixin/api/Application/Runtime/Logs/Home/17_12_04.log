@@ -1,0 +1,30 @@
+[ 2017-12-04T19:30:37+08:00 ] 121.101.209.126 /weixin/api/index.php/Home/Notice/getNotice
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-12-04T19:33:49+08:00 ] 121.101.209.126 /weixin/api/index.php/Home/Kaohe/examine_user
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001243s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='171' ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `sp_examine_user` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(eu.id) AS tp_count FROM sp_examine_user eu WHERE eu.userID = '171' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM sp_examine_user eu WHERE eu.userID = '171'  [ RunTime:0.0001s ]
+
+[ 2017-12-04T19:34:56+08:00 ] 121.101.209.126 /weixin/api/index.php/Home/Kaohe/examine_user
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='171' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_examine_user` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(eu.id) AS tp_count FROM sp_examine_user eu WHERE eu.userID = '171' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM sp_examine_user eu WHERE eu.userID = '171'  [ RunTime:0.0001s ]
+

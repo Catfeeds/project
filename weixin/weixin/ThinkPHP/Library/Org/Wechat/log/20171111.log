@@ -1,0 +1,796 @@
+
+=================2017-11-11 05:51:36=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510350697</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 05:51:36=================
+
+=================2017-11-11 05:51:49=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510350710</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 05:51:49=================
+
+=================2017-11-11 05:54:26=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510350866</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 05:54:26=================
+
+=================2017-11-11 08:10:24=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510359024</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:10:24=================
+
+=================2017-11-11 08:17:21=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510359441</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:17:21=================
+
+=================2017-11-11 08:17:43=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510359463</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:17:43=================
+
+=================2017-11-11 08:23:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510359835</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:23:55=================
+
+=================2017-11-11 08:23:57=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510359837</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:23:57=================
+
+=================2017-11-11 08:25:02=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wB7F1ZJQck_soJipwutPYAE]]></FromUserName>
+<CreateTime>1510359902</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>12878720373227522</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 08:25:02=================
+
+=================2017-11-11 08:25:02=================
+<xml><ToUserName><![CDATA[oMeU-wB7F1ZJQck_soJipwutPYAE]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510359902]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 08:25:02=================
+
+=================2017-11-11 08:25:03=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wIBnHeUmPqYn7Fu_EzUa44w]]></FromUserName>
+<CreateTime>1510359903</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>12878742217097217</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 08:25:03=================
+
+=================2017-11-11 08:25:03=================
+<xml><ToUserName><![CDATA[oMeU-wIBnHeUmPqYn7Fu_EzUa44w]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510359903]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 08:25:03=================
+
+=================2017-11-11 08:25:04=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1510359905</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>12878763926831104</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 08:25:04=================
+
+=================2017-11-11 08:25:04=================
+<xml><ToUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510359904]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 08:25:04=================
+
+=================2017-11-11 08:25:05=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510359905</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>12878767366127620</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 08:25:05=================
+
+=================2017-11-11 08:25:05=================
+<xml><ToUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510359905]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 08:25:05=================
+
+=================2017-11-11 08:25:06=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510359906</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>12878788186619905</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 08:25:06=================
+
+=================2017-11-11 08:25:06=================
+<xml><ToUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510359906]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 08:25:06=================
+
+=================2017-11-11 08:25:07=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1510359907</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>12878809258868736</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 08:25:07=================
+
+=================2017-11-11 08:25:07=================
+<xml><ToUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510359907]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 08:25:07=================
+
+=================2017-11-11 08:25:08=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510359909</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>12878829626408960</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 08:25:08=================
+
+=================2017-11-11 08:25:08=================
+<xml><ToUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510359908]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 08:25:08=================
+
+=================2017-11-11 08:39:04=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510360745</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:39:04=================
+
+=================2017-11-11 08:43:34=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1510361014</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:43:34=================
+
+=================2017-11-11 08:43:45=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1510361025</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 08:43:45=================
+
+=================2017-11-11 09:43:05=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1510364585</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 09:43:05=================
+
+=================2017-11-11 09:44:13=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1510364653</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 09:44:13=================
+
+=================2017-11-11 09:48:11=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1510364892</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 09:48:11=================
+
+=================2017-11-11 10:27:09=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510367230</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 10:27:09=================
+
+=================2017-11-11 10:27:11=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510367231</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 10:27:11=================
+
+=================2017-11-11 10:27:36=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510367256</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 10:27:36=================
+
+=================2017-11-11 10:27:36=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510367257</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 10:27:36=================
+
+=================2017-11-11 11:02:50=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKVZMZ0Opy6I2WNkIKKF_8U]]></FromUserName>
+<CreateTime>1510369371</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 11:02:50=================
+
+=================2017-11-11 11:03:00=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKVZMZ0Opy6I2WNkIKKF_8U]]></FromUserName>
+<CreateTime>1510369380</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/kehugonggao]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 11:03:00=================
+
+=================2017-11-11 11:03:06=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKVZMZ0Opy6I2WNkIKKF_8U]]></FromUserName>
+<CreateTime>1510369386</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenqingrenzheng]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 11:03:06=================
+
+=================2017-11-11 11:03:11=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKVZMZ0Opy6I2WNkIKKF_8U]]></FromUserName>
+<CreateTime>1510369392</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 11:03:11=================
+
+=================2017-11-11 11:03:22=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKVZMZ0Opy6I2WNkIKKF_8U]]></FromUserName>
+<CreateTime>1510369402</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[qiyejianjie]]></EventKey>
+</xml>
+=================2017-11-11 11:03:22=================
+
+=================2017-11-11 11:03:22=================
+<xml><ToUserName><![CDATA[oMeU-wKVZMZ0Opy6I2WNkIKKF_8U]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[        中标华信(北京)认证中心有限公司（简称CSHCC）是经中国认证认可监督管理委员会（CNCA）正式批准的综合类认证服务实体。中标华信(北京)认证中心首批获得认监委批准并首个获得服务认证资格的认证机构。机构同时具有质量、环境、职业健康安全管理体系认证资格，一次认证可同时颁发管理体系认证和服务认证证书。为有需求的认证客户提供方便的专业化一站式服务。
+        中标华信(北京)认证中心吸引了行业内认证界的高端人才，机构拥有行业内多年参与认证相关标准制定的知名专家和多名高级审核员及技术专家，技术力量雄厚。2015年本机构参加了服务认证审查员能力评价行业标准的制定。2016年中标华信(北京)认证中心又率先获得认证认可协会CCAA服务认证审查员培训课程确认，成为行业内具有培养服务认证审查员资格的认证机构。
+        中标华信(北京)认证中心中文网站（www.cshcc.cn），网站面向全国宣传中心的认证工作，也是获证企业获证后的服务之家，为所有关注认证事业的企业及同仁提供一个信息交流沟通的平台。
+        中标华信(北京)认证中心成立以来，确立了公证、负责、独立、权威的质量方针，努力实现技术、业务和各项资源的全面整合及有效管理，以科学、规范、严谨的工作作风和态度，精湛的技能、高素质的人员队伍、严明的纪律和优质的服务，在国内外认证领域树立了良好的行业形象，为我们的客户提供专业化认证以及相关的技术服务。]]></Content><CreateTime><![CDATA[1510369402]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 11:03:22=================
+
+=================2017-11-11 11:03:32=================
+
+=================2017-11-11 11:03:32=================
+
+=================2017-11-11 11:03:32=================
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持该功能哦]]></Content><CreateTime><![CDATA[1510369412]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 11:03:32=================
+
+=================2017-11-11 11:03:52=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wDpPfiHxyouF3BcIHgs-wsk]]></FromUserName>
+<CreateTime>1510369433</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/shenheyuantongzhi]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-11-11 11:03:52=================
+
+=================2017-11-11 11:04:06=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wDpPfiHxyouF3BcIHgs-wsk]]></FromUserName>
+<CreateTime>1510369446</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-11-11 11:04:06=================
+
+=================2017-11-11 11:05:00=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wDpPfiHxyouF3BcIHgs-wsk]]></FromUserName>
+<CreateTime>1510369500</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/zhengshuzhuangtai]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-11-11 11:05:00=================
+
+=================2017-11-11 11:17:47=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1510370268</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 11:17:47=================
+
+=================2017-11-11 12:12:06=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510373526</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 12:12:06=================
+
+=================2017-11-11 12:43:51=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGgs33I02XbpbBiqr2vYiNQ]]></FromUserName>
+<CreateTime>1510375431</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 12:43:51=================
+
+=================2017-11-11 14:10:47=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510380647</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 14:10:47=================
+
+=================2017-11-11 14:33:46=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1510382027</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 14:33:46=================
+
+=================2017-11-11 14:51:49=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wGxFsgoJFY_REfiT6a21MzM]]></FromUserName>
+<CreateTime>1510383109</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 14:51:49=================
+
+=================2017-11-11 16:15:43=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1510388143</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 16:15:43=================
+
+=================2017-11-11 16:16:02=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510388163</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 16:16:02=================
+
+=================2017-11-11 17:05:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510391156</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:05:55=================
+
+=================2017-11-11 17:25:02=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wB7F1ZJQck_soJipwutPYAE]]></FromUserName>
+<CreateTime>1510392302</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>13422295561404422</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 17:25:02=================
+
+=================2017-11-11 17:25:02=================
+<xml><ToUserName><![CDATA[oMeU-wB7F1ZJQck_soJipwutPYAE]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510392302]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 17:25:02=================
+
+=================2017-11-11 17:25:03=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wIBnHeUmPqYn7Fu_EzUa44w]]></FromUserName>
+<CreateTime>1510392303</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>13422319401762818</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 17:25:03=================
+
+=================2017-11-11 17:25:03=================
+<xml><ToUserName><![CDATA[oMeU-wIBnHeUmPqYn7Fu_EzUa44w]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510392303]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 17:25:03=================
+
+=================2017-11-11 17:25:04=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1510392304</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>13422340457185281</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 17:25:04=================
+
+=================2017-11-11 17:25:04=================
+<xml><ToUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510392304]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 17:25:04=================
+
+=================2017-11-11 17:25:04=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510392305</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>13422344651456514</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 17:25:04=================
+
+=================2017-11-11 17:25:04=================
+<xml><ToUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510392304]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 17:25:04=================
+
+=================2017-11-11 17:25:06=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510392306</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>13422365320953860</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 17:25:06=================
+
+=================2017-11-11 17:25:06=================
+<xml><ToUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510392306]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 17:25:06=================
+
+=================2017-11-11 17:25:07=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1510392307</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>13422386527420417</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 17:25:07=================
+
+=================2017-11-11 17:25:07=================
+<xml><ToUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510392307]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 17:25:07=================
+
+=================2017-11-11 17:25:08=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510392308</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>13422407264059394</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-11-11 17:25:08=================
+
+=================2017-11-11 17:25:08=================
+<xml><ToUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1510392308]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-11-11 17:25:08=================
+
+=================2017-11-11 17:27:48=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1510392469</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:27:48=================
+
+=================2017-11-11 17:28:01=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1510392482</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:28:01=================
+
+=================2017-11-11 17:34:30=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510392870</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:34:30=================
+
+=================2017-11-11 17:39:50=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1510393190</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:39:50=================
+
+=================2017-11-11 17:52:10=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510393930</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:52:10=================
+
+=================2017-11-11 17:53:11=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510393991</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:53:11=================
+
+=================2017-11-11 17:53:29=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHjlquAX3uRe4BkjuCl2IcY]]></FromUserName>
+<CreateTime>1510394009</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 17:53:29=================
+
+=================2017-11-11 19:03:54=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510398234</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 19:03:54=================
+
+=================2017-11-11 19:03:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1510398235</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 19:03:55=================
+
+=================2017-11-11 21:06:34=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1510405594</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 21:06:34=================
+
+=================2017-11-11 22:08:54=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510409334</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 22:08:54=================
+
+=================2017-11-11 23:20:25=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wINbAYSV2uerq9UR4vMG0R8]]></FromUserName>
+<CreateTime>1510413625</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436251572</MenuId>
+</xml>
+=================2017-11-11 23:20:25=================
+
+=================2017-11-11 23:39:43=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510414784</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 23:39:43=================
+
+=================2017-11-11 23:40:17=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510414817</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/zhengshuzhuangtai]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 23:40:17=================
+
+=================2017-11-11 23:40:23=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510414823</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/zhengshuzhuangtai]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 23:40:23=================
+
+=================2017-11-11 23:40:40=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510414840</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 23:40:40=================
+
+=================2017-11-11 23:40:44=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1510414844</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php]]></EventKey>
+<MenuId>436252379</MenuId>
+</xml>
+=================2017-11-11 23:40:44=================

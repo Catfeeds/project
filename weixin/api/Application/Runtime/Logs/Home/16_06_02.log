@@ -1,0 +1,72 @@
+[ 2016-06-02T17:28:28+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+
+[ 2016-06-02T17:28:35+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-06-02T17:28:41+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-06-02T17:28:47+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+
+[ 2016-06-02T17:29:22+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0377s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='acbaab5a2823c1b1915a292d8f88f459' and status=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-06-02T17:29:30+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-06-02T17:48:31+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='acbaab5a2823c1b1915a292d8f88f459' and status=1 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-06-02T17:48:39+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+

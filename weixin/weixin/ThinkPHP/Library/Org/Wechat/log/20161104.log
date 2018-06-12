@@ -1,0 +1,29 @@
+
+=================2016-11-04 17:56:51=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wAmmS580-3hw_mkVFDYDXSs]]></FromUserName>
+<CreateTime>1478253414</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000007</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>30</TotalCount>
+<FilterCount>30</FilterCount>
+<SentCount>30</SentCount>
+<ErrorCount>0</ErrorCount>
+</xml>
+=================2016-11-04 17:56:51=================
+
+=================2016-11-04 17:56:51=================
+<xml><ToUserName><![CDATA[oMeU-wAmmS580-3hw_mkVFDYDXSs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1478253411]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-11-04 17:56:51=================
+
+=================2016-11-04 18:26:15=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wHO1W8p58ygOpsls9QuAEb0]]></FromUserName>
+<CreateTime>1478255178</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+=================2016-11-04 18:26:15=================

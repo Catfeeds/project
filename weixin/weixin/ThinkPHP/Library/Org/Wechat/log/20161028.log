@@ -1,0 +1,74 @@
+
+=================2016-10-28 14:55:00=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></FromUserName>
+<CreateTime>1477637703</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>408833231</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-10-28 14:55:00=================
+
+=================2016-10-28 14:55:00=================
+<xml><ToUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1477637700]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-10-28 14:55:00=================
+
+=================2016-10-28 15:03:16=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></FromUserName>
+<CreateTime>1477638199</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>408833570</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-10-28 15:03:16=================
+
+=================2016-10-28 15:03:16=================
+<xml><ToUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1477638196]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-10-28 15:03:16=================
+
+=================2016-10-28 15:54:10=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wLD6OnNbB5bkSluL7M3QAos]]></FromUserName>
+<CreateTime>1477641253</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>408835371</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-10-28 15:54:10=================
+
+=================2016-10-28 15:54:10=================
+<xml><ToUserName><![CDATA[oMeU-wLD6OnNbB5bkSluL7M3QAos]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1477641250]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-10-28 15:54:10=================
+
+=================2016-10-28 16:59:36=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wAmmS580-3hw_mkVFDYDXSs]]></FromUserName>
+<CreateTime>1477645179</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000006</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>31</TotalCount>
+<FilterCount>31</FilterCount>
+<SentCount>31</SentCount>
+<ErrorCount>0</ErrorCount>
+</xml>
+=================2016-10-28 16:59:36=================
+
+=================2016-10-28 16:59:36=================
+<xml><ToUserName><![CDATA[oMeU-wAmmS580-3hw_mkVFDYDXSs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1477645176]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-10-28 16:59:36=================
+
+=================2016-10-28 17:20:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMKk-yxl3q244Mulejv727I]]></FromUserName>
+<CreateTime>1477646458</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+=================2016-10-28 17:20:55=================

@@ -1,0 +1,33 @@
+[ 2017-10-27T14:38:48+08:00 ] 39.155.185.19 /weixin/api/index.php/Home
+ERR: 无法加载控制器:Index
+
+[ 2017-10-27T14:45:57+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-27 23:59:59' AND tat.taskEndDate >= '2017-10-27 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.9284s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+
+[ 2017-10-27T15:29:57+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0014s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-10-27 23:59:59' AND tat.taskEndDate >= '2017-10-27 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.9369s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+

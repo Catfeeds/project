@@ -1,0 +1,841 @@
+[ 2016-06-20T13:20:31+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0005s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:20:31',`modifyTime`='2016-06-20 13:20:31' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:20:31',`modifyTime`='2016-06-20 13:20:31' WHERE ( id= )
+
+[ 2016-06-20T13:20:35+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:20:35',`modifyTime`='2016-06-20 13:20:35' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:20:35',`modifyTime`='2016-06-20 13:20:35' WHERE ( id= )
+
+[ 2016-06-20T13:21:00+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:21:00',`modifyTime`='2016-06-20 13:21:00' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:21:00',`modifyTime`='2016-06-20 13:21:00' WHERE ( id= )
+
+[ 2016-06-20T13:21:16+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:21:32+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:21:49+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:21:58+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:21:58',`modifyTime`='2016-06-20 13:21:58' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:21:58',`modifyTime`='2016-06-20 13:21:58' WHERE ( id= )
+
+[ 2016-06-20T13:22:33+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001267s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-06-20T13:23:04+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2016-06-20T13:23:28+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-06-20T13:23:52+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [8] Trying to get property of non-object E:\WWW\lin\api\Application\Home\Controller\LoginController.class.php 第 8 行.
+
+[ 2016-06-20T13:24:33+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: Think\Controller:getArrayForResults方法不存在！
+
+[ 2016-06-20T13:24:52+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:24:52',`modifyTime`='2016-06-20 13:24:52' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:24:52',`modifyTime`='2016-06-20 13:24:52' WHERE ( id= )
+
+[ 2016-06-20T13:25:28+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-06-20T13:25:36+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0165s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-20T13:25:54+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-06-20T13:25:57+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:38+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001882s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001308s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:26:48+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-06-20T13:27:23+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-06-20T13:27:24+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:27:28+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:27:44+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-20T13:27:57+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-06-20T13:28:40+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-06-20T13:29:06+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='e10adc3949ba59abbe56e057f20f883e' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-06-20T13:29:36+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-20T13:29:50+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2016-06-20T13:30:04+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-06-20T13:31:20+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:31:20',`modifyTime`='2016-06-20 13:31:20' WHERE ( id=1 ) [ RunTime:0.0011s ]
+
+[ 2016-06-20T13:31:33+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:31:33',`modifyTime`='2016-06-20 13:31:33' WHERE ( id=1 ) [ RunTime:0.0006s ]
+
+[ 2016-06-20T13:33:05+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:33:05',`modifyTime`='2016-06-20 13:33:05' WHERE ( id=1 ) [ RunTime:0.0007s ]
+
+[ 2016-06-20T13:35:44+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:35:44',`modifyTime`='2016-06-20 13:35:44' WHERE ( id=1 ) [ RunTime:0.0004s ]
+
+[ 2016-06-20T13:36:37+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c1d68c0ae75d578ff5d9ff87e0471181' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:36:37',`modifyTime`='2016-06-20 13:36:37' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:36:37',`modifyTime`='2016-06-20 13:36:37' WHERE ( id= )
+
+[ 2016-06-20T13:36:43+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c1d68c0ae75d578ff5d9ff87e0471181' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:36:43',`modifyTime`='2016-06-20 13:36:43' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:36:43',`modifyTime`='2016-06-20 13:36:43' WHERE ( id= )
+
+[ 2016-06-20T13:37:04+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='98e8d525c9364ad1a8f9a4829a4a15f5' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:37:04',`modifyTime`='2016-06-20 13:37:04' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:37:04',`modifyTime`='2016-06-20 13:37:04' WHERE ( id= )
+
+[ 2016-06-20T13:37:17+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:37:29+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:37:49+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='98e8d525c9364ad1a8f9a4829a4a15f5' and status=1 ) LIMIT 1   [ RunTime:0.0006s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:37:49',`modifyTime`='2016-06-20 13:37:49' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:37:49',`modifyTime`='2016-06-20 13:37:49' WHERE ( id= )
+
+[ 2016-06-20T13:37:54+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='df46f7e4a33217c4aa7e9b5c161a25d9' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:37:54',`modifyTime`='2016-06-20 13:37:54' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:37:54',`modifyTime`='2016-06-20 13:37:54' WHERE ( id= )
+
+[ 2016-06-20T13:38:25+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2016-06-20T13:38:33+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:38:33',`modifyTime`='2016-06-20 13:38:33' WHERE ( id=1 ) [ RunTime:0.0006s ]
+
+[ 2016-06-20T13:39:42+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c1d68c0ae75d578ff5d9ff87e0471181' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:39:42',`modifyTime`='2016-06-20 13:39:42' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:39:42',`modifyTime`='2016-06-20 13:39:42' WHERE ( id= )
+
+[ 2016-06-20T13:40:03+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c1d68c0ae75d578ff5d9ff87e0471181' and status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:03',`modifyTime`='2016-06-20 13:40:03' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:03',`modifyTime`='2016-06-20 13:40:03' WHERE ( id= )
+
+[ 2016-06-20T13:40:13+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:13',`modifyTime`='2016-06-20 13:40:13' WHERE ( id=1 ) [ RunTime:0.0003s ]
+
+[ 2016-06-20T13:40:16+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:16',`modifyTime`='2016-06-20 13:40:16' WHERE ( id=1 ) [ RunTime:0.0008s ]
+
+[ 2016-06-20T13:40:21+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c1d68c0ae75d578ff5d9ff87e0471181' and status=1 ) LIMIT 1   [ RunTime:0.0009s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:21',`modifyTime`='2016-06-20 13:40:21' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:21',`modifyTime`='2016-06-20 13:40:21' WHERE ( id= )
+
+[ 2016-06-20T13:40:39+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='98e8d525c9364ad1a8f9a4829a4a15f5' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:39',`modifyTime`='2016-06-20 13:40:39' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:39',`modifyTime`='2016-06-20 13:40:39' WHERE ( id= )
+
+[ 2016-06-20T13:40:53+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='98e8d525c9364ad1a8f9a4829a4a15f5' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:53',`modifyTime`='2016-06-20 13:40:53' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:40:53',`modifyTime`='2016-06-20 13:40:53' WHERE ( id= )
+
+[ 2016-06-20T13:41:24+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='98e8d525c9364ad1a8f9a4829a4a15f5' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:41:24',`modifyTime`='2016-06-20 13:41:24' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:41:24',`modifyTime`='2016-06-20 13:41:24' WHERE ( id= )
+
+[ 2016-06-20T13:41:30+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='df46f7e4a33217c4aa7e9b5c161a25d9' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:41:30',`modifyTime`='2016-06-20 13:41:30' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:41:30',`modifyTime`='2016-06-20 13:41:30' WHERE ( id= )
+
+[ 2016-06-20T13:41:41+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:41:41',`modifyTime`='2016-06-20 13:41:41' WHERE ( id=1 ) [ RunTime:0.0004s ]
+
+[ 2016-06-20T13:41:44+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:41:44',`modifyTime`='2016-06-20 13:41:44' WHERE ( id=1 ) [ RunTime:0.0003s ]
+
+[ 2016-06-20T13:50:17+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:50:17',`modifyTime`='2016-06-20 13:50:17' WHERE ( id=1 ) [ RunTime:0.0005s ]
+
+[ 2016-06-20T13:50:30+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:50:30',`modifyTime`='2016-06-20 13:50:30' WHERE ( id=1 ) [ RunTime:0.0002s ]
+
+[ 2016-06-20T13:51:08+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:51:08',`modifyTime`='2016-06-20 13:51:08' WHERE ( id=1 ) [ RunTime:0.0004s ]
+
+[ 2016-06-20T13:53:43+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:53:43',`modifyTime`='2016-06-20 13:53:43' WHERE ( id=1 ) [ RunTime:0.0003s ]
+
+[ 2016-06-20T13:53:48+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:53:48',`modifyTime`='2016-06-20 13:53:48' WHERE ( id=1 ) [ RunTime:0.0011s ]
+
+[ 2016-06-20T13:53:58+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:53:58',`modifyTime`='2016-06-20 13:53:58' WHERE ( id=1 ) [ RunTime:0.0005s ]
+
+[ 2016-06-20T13:54:54+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:54:54',`modifyTime`='2016-06-20 13:54:54' WHERE ( id=1 ) [ RunTime:0.0007s ]
+
+[ 2016-06-20T13:55:00+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:55:00',`modifyTime`='2016-06-20 13:55:00' WHERE ( id=1 ) [ RunTime:0.0007s ]
+
+[ 2016-06-20T13:56:42+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:56:42',`modifyTime`='2016-06-20 13:56:42' WHERE ( id=1 ) [ RunTime:0.0008s ]
+
+[ 2016-06-20T13:57:00+08:00 ] ::1 /lin/api/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: _HEADERS E:\WWW\lin\api\Application\Home\Controller\CommonController.class.php 第 48 行.
+SQL: UPDATE `zb_user` SET `lastLoginTime`='2016-06-20 13:57:00',`modifyTime`='2016-06-20 13:57:00' WHERE ( id=1 ) [ RunTime:0.0008s ]
+

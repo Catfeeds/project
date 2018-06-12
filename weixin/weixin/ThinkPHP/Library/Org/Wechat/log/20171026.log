@@ -1,0 +1,327 @@
+
+=================2017-10-26 08:25:01=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1508977502</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>433806831</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-10-26 08:25:01=================
+
+=================2017-10-26 08:25:01=================
+<xml><ToUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1508977501]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-10-26 08:25:01=================
+
+=================2017-10-26 08:25:43=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1508977544</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/qiandao]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 08:25:43=================
+
+=================2017-10-26 08:44:34=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1508978674</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 08:44:34=================
+
+=================2017-10-26 09:30:27=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wE_Vldt97Q-eCBUd5-1N_t4]]></FromUserName>
+<CreateTime>1508981427</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/renwuchaxun]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 09:30:27=================
+
+=================2017-10-26 09:30:41=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wE_Vldt97Q-eCBUd5-1N_t4]]></FromUserName>
+<CreateTime>1508981441</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/qiandao]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 09:30:41=================
+
+=================2017-10-26 09:31:21=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wOMbKokN8Wk_gCAcxr724Zo]]></FromUserName>
+<CreateTime>1508981482</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/renwuchaxun]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 09:31:21=================
+
+=================2017-10-26 12:55:19=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1508993719</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/qiandao]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 12:55:19=================
+
+=================2017-10-26 12:55:27=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1508993728</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/renwuchaxun]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 12:55:27=================
+
+=================2017-10-26 12:56:07=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1508993767</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/qiandao]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 12:56:07=================
+
+=================2017-10-26 13:18:56=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1508995137</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 13:18:56=================
+
+=================2017-10-26 13:49:29=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1508996969</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 13:49:29=================
+
+=================2017-10-26 15:25:25=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1509002725</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 15:25:25=================
+
+=================2017-10-26 15:58:11=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1509004691</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/renwuchaxun]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 15:58:11=================
+
+=================2017-10-26 15:58:51=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1509004731</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 15:58:51=================
+
+=================2017-10-26 16:16:19=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKKCZ0CZNlLvc6djOzD9fPM]]></FromUserName>
+<CreateTime>1509005779</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/renwuchaxun]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 16:16:19=================
+
+=================2017-10-26 16:46:45=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1509007605</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/kehugonggao]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 16:46:45=================
+
+=================2017-10-26 16:46:49=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1509007610</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 16:46:49=================
+
+=================2017-10-26 16:46:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1509007615</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/kehugonggao]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 16:46:55=================
+
+=================2017-10-26 16:47:01=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1509007621</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenqingrenzheng]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 16:47:01=================
+
+=================2017-10-26 16:47:08=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1509007628</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/zhengshuzhuangtai]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 16:47:08=================
+
+=================2017-10-26 17:25:01=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></FromUserName>
+<CreateTime>1509009902</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>433837077</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2017-10-26 17:25:01=================
+
+=================2017-10-26 17:25:01=================
+<xml><ToUserName><![CDATA[oMeU-wMJpJhl-9WM29P3V5os64gs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1509009901]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2017-10-26 17:25:01=================
+
+=================2017-10-26 19:17:53=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1509016674</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 19:17:53=================
+
+=================2017-10-26 19:18:00=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1509016680</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Enterprises/shenhejindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 19:18:00=================
+
+=================2017-10-26 19:18:43=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wKtkENnTVYxep03d6IbwXKM]]></FromUserName>
+<CreateTime>1509016724</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/renwuchaxun]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 19:18:43=================
+
+=================2017-10-26 21:46:01=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1509025561</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/shenheyuan/jindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 21:46:01=================
+
+=================2017-10-26 21:46:22=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1509025582</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/home/kaohe/index]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 21:46:22=================
+
+=================2017-10-26 21:46:32=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1509025593</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/home/kaohe/index]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 21:46:32=================
+
+=================2017-10-26 21:46:40=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1509025600</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/shenheyuan/jindu]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 21:46:40=================
+
+=================2017-10-26 21:46:47=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1509025608</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/shenheyuantongzhi]]></EventKey>
+<MenuId>433325137</MenuId>
+</xml>
+=================2017-10-26 21:46:47=================

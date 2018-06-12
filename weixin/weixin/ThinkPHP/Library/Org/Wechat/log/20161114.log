@@ -1,0 +1,30 @@
+
+=================2016-11-14 18:01:51=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></FromUserName>
+<CreateTime>1479117714</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>409415407</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-11-14 18:01:51=================
+
+=================2016-11-14 18:01:51=================
+<xml><ToUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1479117711]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-11-14 18:01:51=================
+
+=================2016-11-14 18:13:55=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></FromUserName>
+<CreateTime>1479118437</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>409415830</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-11-14 18:13:55=================
+
+=================2016-11-14 18:13:55=================
+<xml><ToUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1479118435]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-11-14 18:13:55=================

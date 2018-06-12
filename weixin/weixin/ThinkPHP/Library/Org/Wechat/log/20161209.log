@@ -1,0 +1,23 @@
+
+=================2016-12-09 16:34:33=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wAmmS580-3hw_mkVFDYDXSs]]></FromUserName>
+<CreateTime>1481272476</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000012</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>28</TotalCount>
+<FilterCount>28</FilterCount>
+<SentCount>28</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+=================2016-12-09 16:34:33=================
+
+=================2016-12-09 16:34:33=================
+<xml><ToUserName><![CDATA[oMeU-wAmmS580-3hw_mkVFDYDXSs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1481272473]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-12-09 16:34:33=================

@@ -1,0 +1,26 @@
+
+=================2016-10-08 11:21:12=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1475896875</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>408156521</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-10-08 11:21:12=================
+
+=================2016-10-08 11:21:12=================
+<xml><ToUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1475896872]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-10-08 11:21:12=================
+
+=================2016-10-08 11:34:43=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wFFtiQD7TuSU1C0OznLaRQs]]></FromUserName>
+<CreateTime>1475897686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://cams.cshcc.cn/weixin/weixin/index.php/Home/Shenheyuan/renwuchaxun]]></EventKey>
+<MenuId>407922474</MenuId>
+</xml>
+=================2016-10-08 11:34:43=================

@@ -1,0 +1,15 @@
+
+=================2016-11-16 10:23:35=================
+<xml><ToUserName><![CDATA[gh_ec0007edd640]]></ToUserName>
+<FromUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></FromUserName>
+<CreateTime>1479263018</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>409490054</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+=================2016-11-16 10:23:35=================
+
+=================2016-11-16 10:23:35=================
+<xml><ToUserName><![CDATA[oMeU-wL-3UAtz8AYdIFnEHXeHYP8]]></ToUserName><FromUserName><![CDATA[gh_ec0007edd640]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[暂不支持功能]]></Content><CreateTime><![CDATA[1479263015]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+=================2016-11-16 10:23:35=================

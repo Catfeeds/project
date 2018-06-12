@@ -1,0 +1,79 @@
+[ 2018-01-11T16:08:57+08:00 ] 117.136.0.123 /weixin/weixin/index.php/home/downs/downsnotice/id/14.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:09:06+08:00 ] 117.136.0.123 /weixin/weixin/index.php/home/downs/downsnotice/id/14.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:09:13+08:00 ] 117.136.0.123 /weixin/weixin/index.php/home/downs/downsnotice/id/14.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:11:18+08:00 ] 117.136.0.123 /weixin/weixin/index.php/home/downs/downsnotice/id/14.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:15:47+08:00 ] 114.242.249.26 /weixin/weixin/index.php/home/downs/downsnotice/id/10.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:15:49+08:00 ] 114.242.249.26 /weixin/weixin/index.php/home/downs/downsnotice/id/10.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:16:08+08:00 ] 114.242.249.26 /weixin/weixin/index.php/home/downs/downsnotice/id/10.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:16:14+08:00 ] 114.242.249.26 /weixin/weixin/index.php/home/downs/downsnotice/id/10.html
+ERR: 模板不存在:./Application/Home/View/Downs/downsnotice.html
+
+[ 2018-01-11T16:20:33+08:00 ] 121.101.209.126 /weixin/weixin/index.php/home/index/getindex_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001708s ]
+
+[ 2018-01-11T16:20:35+08:00 ] 121.101.209.126 /weixin/weixin/index.php/home/shenheyuan/gettongzhi_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+
+[ 2018-01-11T16:32:07+08:00 ] 121.101.209.126 /weixin/weixin/index.php/home/index/getindex_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001730s ]
+
+[ 2018-01-11T16:32:10+08:00 ] 121.101.209.126 /weixin/weixin/index.php/home/shenheyuan/gettongzhi_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+
+[ 2018-01-11T16:32:41+08:00 ] 121.101.209.126 /weixin/weixin/index.php/home/index/getindex_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001778s ]
+
+[ 2018-01-11T16:32:42+08:00 ] 121.101.209.126 /weixin/weixin/index.php/home/shenheyuan/gettongzhi_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+
+[ 2018-01-11T16:37:03+08:00 ] 117.136.0.123 /weixin/weixin/index.php/home/index/getindex_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+
+[ 2018-01-11T16:37:04+08:00 ] 117.136.0.123 /weixin/weixin/index.php/home/shenheyuan/gettongzhi_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+
+[ 2018-01-11T16:37:14+08:00 ] 121.101.209.126 /weixin/weixin/index.php/home/index/getindex_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+
+[ 2018-01-11T16:37:45+08:00 ] 117.136.38.215 /weixin/weixin/index.php/home/index/getindex_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001828s ]
+
+[ 2018-01-11T16:37:46+08:00 ] 117.136.38.215 /weixin/weixin/index.php/home/shenheyuan/gettongzhi_list.html?page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+

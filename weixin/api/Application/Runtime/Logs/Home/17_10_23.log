@@ -1,0 +1,4 @@
+[ 2017-10-23T20:23:17+08:00 ] 118.244.234.148 /weixin/api/index.php/Home/Task/getAuditTaskList
+ERR: 1054:Unknown column 't.if_push' in 'field list'
+ [ SQL语句 ] : SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.uid = '101' AND tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-07 23:59:59' AND tat.taskEndDate >= '2017-10-23 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate 
+

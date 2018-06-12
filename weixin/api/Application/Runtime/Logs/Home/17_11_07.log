@@ -1,0 +1,290 @@
+[ 2017-11-07T18:28:51+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-07 23:59:59' AND tat.taskEndDate >= '2017-11-07 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.1814s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+
+[ 2017-11-07T18:32:03+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001267s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0010s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-07 23:59:59' AND tat.taskEndDate >= '2017-11-07 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:15.2072s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-07 23:59:59' AND tat.taskEndDate >= '2017-11-07 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:14.1366s ]
+NOTIC: [8] Undefined index: tab_ /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 151 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-07 23:59:59' AND tat.taskEndDate >= '2017-11-07 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '1' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.0754s ]
+
+[ 2017-11-07T18:33:57+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-07 23:59:59' AND tat.taskEndDate >= '2017-11-07 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+
+[ 2017-11-07T18:43:59+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.1477s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 156 行.
+
+[ 2017-11-07T18:44:50+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001785s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0014s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:15.4610s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:14.4903s ]
+NOTIC: [8] Undefined index: tab_ /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 151 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '1' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.2238s ]
+
+[ 2017-11-07T18:49:50+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0015s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0011s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: tab_ /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 149 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '1' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0003s ]
+
+[ 2017-11-07T18:49:55+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0011s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0008s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: tab_ /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 149 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-02 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '.' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.1797s ]
+
+[ 2017-11-07T18:50:15+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001734s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '2017-11-09 23:59:59' AND tat.taskEndDate >= '2017-11-09 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.2582s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T18:50:46+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001707s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0010s ]
+NOTIC: [8] A non well formed numeric value encountered /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '1969-12-17 23:59:59' AND tat.taskEndDate >= '2017-11-09 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.0295s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T18:50:52+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0008s ]
+NOTIC: [8] A non well formed numeric value encountered /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '1969-12-17 23:59:59' AND tat.taskEndDate >= '2017-11-02 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.0817s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T18:51:00+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0009s ]
+NOTIC: [8] A non well formed numeric value encountered /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '1969-12-17 23:59:59' AND tat.taskEndDate >= '2017-11-04 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.9916s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T18:56:23+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002038s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0019s ]
+NOTIC: [8] A non well formed numeric value encountered /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate <= '1969-12-17 23:59:59' AND tat.taskEndDate >= '2017-11-04 00:00:00' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T18:57:54+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-20 00:00:00' AND tat.taskEndDate <= '2017-11-04 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.5222s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T18:58:02+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0014s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.5767s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T18:58:50+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0018s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:19.0703s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:18.7898s ]
+NOTIC: [8] Undefined index: tab_ /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 149 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '1' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:1.5876s ]
+
+[ 2017-11-07T19:01:05+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T19:03:00+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+
+[ 2017-11-07T19:03:03+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0017s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0025s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0038s ]
+NOTIC: [8] Undefined index: tab_ /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 149 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '1' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0004s ]
+
+[ 2017-11-07T19:03:06+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0013s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 0 GROUP BY tat.tid,tat.uid  [ RunTime:0.0022s ]
+SQL: SELECT * FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = 1 GROUP BY tat.tid,tat.uid  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: tab_ /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 149 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 AND p.is_finish = '1' GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0003s ]
+
+[ 2017-11-07T19:03:21+08:00 ] 39.155.185.19 /weixin/api/index.php/Home/Task/getAuditTaskList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001796s ]
+NOTIC: [8] Undefined variable: _HEADERS /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/ApiController.class.php 第 183 行.
+SQL: SHOW COLUMNS FROM `sp_hr` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `sp_hr` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `sp_task_audit_team` [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 152 行.
+SQL: SELECT tat.*,p.rect_finish,p.audit_type,p.cti_code,p.ct_code,p.ct_id,p.id,p.comment_pass_date,p.comment_pass,p.sp_date,p.sv_note,t.jh_sp_date,t.jh_sp_note,t.jh_sp_name,t.bufuhe,t.if_push,t.upload_file_date,t.jh_sp_status,c.is_site,e.ep_name,e.areaaddr,un.unionToken FROM sp_task_audit_team tat INNER JOIN sp_project p ON p.id = tat.pid LEFT JOIN sp_task t ON t.id = tat.tid LEFT JOIN sp_contract c ON c.eid = t.eid LEFT JOIN sp_enterprises e ON e.eid = t.eid  LEFT JOIN sp_unionlogin un ON un.userID = tat.uid   WHERE tat.deleted = 0 AND tat.role <> '' AND tat.taskBeginDate >= '2017-10-23 00:00:00' AND tat.taskEndDate <= '2017-11-07 23:59:59' AND p.deleted = 0 AND t.deleted = 0 AND c.deleted = 0 AND e.deleted = 0 AND un.status = 1 GROUP BY tat.tid,tat.uid ORDER BY tat.taskBeginDate  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [8] Undefined variable: tab /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+NOTIC: [2] array_merge(): Argument #1 is not an array /home/wwwroot/cams_cshcc/public_html/weixin/api/Application/Home/Controller/TaskController.class.php 第 154 行.
+

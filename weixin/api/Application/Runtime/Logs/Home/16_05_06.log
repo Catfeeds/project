@@ -1,0 +1,317 @@
+[ 2016-05-06T09:36:37+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003075s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0404s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:36:37',`modifyTime`='2016-05-06 09:36:37' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:36:37',`modifyTime`='2016-05-06 09:36:37' WHERE ( id= )
+
+[ 2016-05-06T09:36:50+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:36:50',`modifyTime`='2016-05-06 09:36:50' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:36:50',`modifyTime`='2016-05-06 09:36:50' WHERE ( id= )
+
+[ 2016-05-06T09:37:45+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:37:45',`modifyTime`='2016-05-06 09:37:45' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:37:45',`modifyTime`='2016-05-06 09:37:45' WHERE ( id= )
+
+[ 2016-05-06T09:37:59+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0163s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:37:59',`modifyTime`='2016-05-06 09:37:59' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:37:59',`modifyTime`='2016-05-06 09:37:59' WHERE ( id= )
+
+[ 2016-05-06T09:38:18+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0005s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:38:18',`modifyTime`='2016-05-06 09:38:18' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:38:18',`modifyTime`='2016-05-06 09:38:18' WHERE ( id= )
+
+[ 2016-05-06T09:39:22+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:39:22',`modifyTime`='2016-05-06 09:39:22' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:39:22',`modifyTime`='2016-05-06 09:39:22' WHERE ( id= )
+
+[ 2016-05-06T09:40:00+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:40:00',`modifyTime`='2016-05-06 09:40:00' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:40:00',`modifyTime`='2016-05-06 09:40:00' WHERE ( id= )
+
+[ 2016-05-06T09:41:05+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0184s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='' and password='' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:41:05',`modifyTime`='2016-05-06 09:41:05' WHERE ( id= )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `zb_user` SET `lastLoginTime`='2016-05-06 09:41:05',`modifyTime`='2016-05-06 09:41:05' WHERE ( id= )
+
+[ 2016-05-06T09:42:42+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-05-06T09:43:23+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='4323df9076950b8355adce8fce99d0f5' and status=1 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-05-06T09:43:32+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-05-06T09:44:06+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-05-06T09:44:19+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-05-06T09:45:09+08:00 ] ::1 /lin/api/index.php/Home//Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `zb_user` [ RunTime:0.0157s ]
+SQL: SELECT * FROM `zb_user` WHERE ( user='admin' and password='c5d3bb9a20332ab1925f1415ffa8fda6' and status=1 ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-05-06T10:29:33+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+ERR: 模板不存在:./Application/Home/View/User/list.html
+
+[ 2016-05-06T10:30:11+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001980s ]
+ERR: 非法操作:index
+
+[ 2016-05-06T10:30:12+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+ERR: 非法操作:index
+
+[ 2016-05-06T10:30:12+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+ERR: 非法操作:index
+
+[ 2016-05-06T10:30:12+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+ERR: 非法操作:index
+
+[ 2016-05-06T10:30:12+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+ERR: 非法操作:index
+
+[ 2016-05-06T10:30:18+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-05-06T10:31:28+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-05-06T10:31:29+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-05-06T10:31:29+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+
+[ 2016-05-06T10:31:53+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-05-06T10:32:41+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-05-06T10:32:41+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-05-06T10:32:42+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-05-06T10:32:42+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+
+[ 2016-05-06T10:32:42+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-05-06T10:32:42+08:00 ] ::1 /lin/api/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+

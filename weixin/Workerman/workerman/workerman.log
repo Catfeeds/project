@@ -1,0 +1,143 @@
+2017-10-23 20:41:26 pid:1361 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 20:43:15 pid:1372 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 20:43:15 pid:1372 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-23 20:43:15 pid:1363 Workerman[index.php] Stopping ...
+2017-10-23 20:43:15 pid:1363 Workerman[index.php] has been stopped
+2017-10-23 20:43:15 pid:1372 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-23 20:43:20 pid:1374 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 20:45:14 pid:1382 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 20:45:14 pid:1382 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-23 20:45:14 pid:1376 Workerman[index.php] Stopping ...
+2017-10-23 20:45:14 pid:1376 Workerman[index.php] has been stopped
+2017-10-23 20:45:14 pid:1382 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-23 20:45:28 pid:1384 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 20:45:28 pid:1384 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 20:45:39 pid:1386 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 20:47:31 pid:1391 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 20:47:31 pid:1391 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] already running
+2017-10-23 20:48:46 pid:1397 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 20:48:46 pid:1397 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] already running
+2017-10-23 20:56:37 pid:1457 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 20:56:37 pid:1457 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] already running
+2017-10-23 20:59:56 pid:1468 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 20:59:56 pid:1468 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] already running
+2017-10-23 21:00:22 pid:1470 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] -d 
+2017-10-23 21:01:00 pid:1472 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:01:00 pid:1472 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-23 21:01:00 pid:1388 Workerman[index.php] Stopping ...
+2017-10-23 21:01:00 pid:1388 Workerman[index.php] has been stopped
+2017-10-23 21:01:00 pid:1472 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-23 21:01:28 pid:1486 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 21:01:36 pid:1491 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-23 21:02:13 pid:1493 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:02:13 pid:1493 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-23 21:02:13 pid:1488 Workerman[index.php] Stopping ...
+2017-10-23 21:02:13 pid:1488 Workerman[index.php] has been stopped
+2017-10-23 21:02:13 pid:1493 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-23 21:02:27 pid:1497 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:02:27 pid:1497 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:03 pid:1501 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:03 pid:1501 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:04 pid:1505 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:04 pid:1505 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:04 pid:1509 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:04 pid:1509 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:05 pid:1513 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:05 pid:1513 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:05 pid:1517 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:05 pid:1517 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:06 pid:1521 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:06 pid:1521 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:06 pid:1525 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:06 pid:1525 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:06 pid:1528 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:06 pid:1528 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:07 pid:1532 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:07 pid:1532 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:07 pid:1535 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:07 pid:1535 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:07 pid:1539 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:07 pid:1539 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:07 pid:1542 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:07 pid:1542 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:07 pid:1545 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:07 pid:1545 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:38 pid:1549 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:38 pid:1549 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:39 pid:1553 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:39 pid:1553 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:44 pid:1557 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:44 pid:1557 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:05:57 pid:1562 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-23 21:05:57 pid:1562 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-23 21:06:06 pid:1566 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-23 21:06:11 pid:1587 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 14:37:29 pid:8627 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:07:54 pid:10251 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:08:01 pid:10253 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-27 15:08:01 pid:10253 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-27 15:08:01 pid:1568 Workerman[index.php] Stopping ...
+2017-10-27 15:08:01 pid:1568 Workerman[index.php] has been stopped
+2017-10-27 15:08:01 pid:10253 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-27 15:08:05 pid:10256 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-27 15:08:11 pid:10266 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:27:47 pid:10853 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-27 15:27:47 pid:10853 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-27 15:27:47 pid:10258 Workerman[index.php] Stopping ...
+2017-10-27 15:27:47 pid:10258 Workerman[index.php] has been stopped
+2017-10-27 15:27:47 pid:10853 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-27 15:27:51 pid:10855 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:27:51 pid:10855 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-27 15:27:54 pid:10857 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-27 15:27:58 pid:10862 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:36:19 pid:10953 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:37:07 pid:10973 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-27 15:37:07 pid:10973 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-27 15:37:07 pid:10859 Workerman[index.php] Stopping ...
+2017-10-27 15:37:07 pid:10859 Workerman[index.php] has been stopped
+2017-10-27 15:37:07 pid:10973 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-27 15:37:10 pid:10975 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:37:10 pid:10975 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-27 15:37:15 pid:10977 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-27 15:37:18 pid:10982 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:39:08 pid:11022 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:39:13 pid:11024 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:40:55 pid:11032 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:40:55 pid:11033 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:40:56 pid:11034 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:40:59 pid:11036 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:45:19 pid:11118 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-27 15:45:19 pid:11118 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-27 15:45:19 pid:10979 Workerman[index.php] Stopping ...
+2017-10-27 15:45:19 pid:10979 Workerman[index.php] has been stopped
+2017-10-27 15:45:19 pid:11118 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-27 15:45:24 pid:11123 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:45:24 pid:11123 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-10-27 15:45:27 pid:11125 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-27 15:45:31 pid:11132 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 15:48:25 pid:11154 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-27 15:48:25 pid:11154 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-27 15:48:25 pid:11127 Workerman[index.php] Stopping ...
+2017-10-27 15:48:25 pid:11127 Workerman[index.php] has been stopped
+2017-10-27 15:48:25 pid:11154 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-27 15:48:28 pid:11156 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-27 15:50:28 pid:11207 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-27 15:50:32 pid:11212 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 17:31:23 pid:13788 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-10-27 17:31:50 pid:13790 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop 
+2017-10-27 17:31:50 pid:13790 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] is stoping ...
+2017-10-27 17:31:50 pid:11209 Workerman[index.php] Stopping ...
+2017-10-27 17:31:50 pid:11209 Workerman[index.php] has been stopped
+2017-10-27 17:31:50 pid:13790 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] stop success
+2017-10-27 17:31:54 pid:13792 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-10-27 17:31:57 pid:13797 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-12-12 10:38:01 pid:1366 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-12-12 10:38:01 pid:1366 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-12-12 10:38:11 pid:1370 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-12-12 10:38:22 pid:1391 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-12-28 17:44:39 pid:31986 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2017-12-28 17:44:39 pid:31986 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] not run
+2017-12-28 17:47:05 pid:32021 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] start in DAEMON mode
+2017-12-28 17:47:47 pid:32043 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2018-01-10 15:02:22 pid:8105 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
+2018-01-10 15:03:30 pid:8110 Workerman[/home/wwwroot/cams_cshcc/public_html/weixin/Workerman/index.php] status 
